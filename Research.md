@@ -1,3 +1,5 @@
+# Next.js With Prisma and PostgreSQL + Tailwind + ?phaser
+
 ### Key Points
 
 - Next.js, Prisma, PostgreSQL, and Tailwind CSS work well together for building full-stack web applications, with plenty of documentation and templates available.
